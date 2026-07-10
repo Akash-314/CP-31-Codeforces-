@@ -1,0 +1,30 @@
+# Compiled executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+
+# Visual Studio files
+.vs/
+*.VC.db
+
+# Code::Blocks
+bin/
+obj/
+
+# CLion / JetBrains
+.idea/
+cmake-build-*/
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
